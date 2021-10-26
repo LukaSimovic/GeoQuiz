@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\bin\Debug\GeoKviz.exe.config
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\bin\Debug\GeoKviz.exe
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\bin\Debug\GeoKviz.pdb
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.Properties.Resources.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.exe
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.pdb
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.GeoKvizForm.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.Frm4Drzave.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.Frm4Zastave.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.FrmPogodiGGrad.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\obj\Debug\GeoKviz.FrmPogodiDrzavu.resources
+C:\Users\DELL\source\repos\GeoKviz\GeoKviz\bin\Debug\GeoQuizBaza.accdb
