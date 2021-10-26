@@ -2,7 +2,7 @@
 
 This is a game for all geography lovers made in C# as Windows Form Application.
 
-In the first window you choose one of 4 games:
+In the first window you choose one of four games:
 1) Guess the contry (capital or flag is given)
 2) Guess the capital (country or flag is given)
 3) 4 flags
